@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-<h1 align="center">Netflix Clone</h1>
+<h1 align="center">CineMania</h1>
 
   <p align="center">
     Netflix clone using React with TMDB API integration to fetch and display dynamic movie and TV show data. Implemented category-based browsing, interactive movie details, and video playback functionality
